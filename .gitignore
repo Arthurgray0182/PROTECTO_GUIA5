@@ -1,0 +1,20 @@
+# Entorno virtual
+venv.A/
+.env
+
+# Variables de entorno (NUNCA subir)
+.env
+.env.*
+
+# Archivos compilados de Python
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
